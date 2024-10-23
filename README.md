@@ -21,7 +21,6 @@
 - 7.compare.py
 - requirements.txt
 
-#### 실습 PDF 
 
 ## 시험 환경 정보
 
