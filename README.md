@@ -8,6 +8,7 @@
 2. **Download ZIP**을 선택하여 저장소를 다운로드하세요.
 3. 다운로드가 완료되면, ZIP 파일을 아래 경로에 풀어주세요:
 
+D:\WorkSpace\Robustness
 
 ## 시험 환경 정보
 
