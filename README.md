@@ -11,7 +11,7 @@
 4. 최종적으로 D:\WorkSpace\Robustness 파일 내에 아래 파일처럼 구성돼 있으면 됩니다.
 - 표지판코드분류crop데이터1 폴더(PDF 데이터 다운 참고)
 - 표지판코드분류crop데이터2 폴더(PDF 데이터 다운 참고)
-- test.py
+- test.py(PDF 가상환경 생성 참고)
 - 1.image_sort.py
 - 2.data_resize.py
 - 3.split_data.py
