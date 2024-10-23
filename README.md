@@ -20,6 +20,7 @@
 - 6.robust_generator.py
 - 7.compare.py
 - requirements.txt
+- README.md
 
 
 ## 시험 환경 정보
